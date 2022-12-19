@@ -15,7 +15,7 @@
     <name>springwarjava</name>
     <description>springwarjava</description>
     <properties>
-         <start-class>com.example.springwarjava</start-class>
+         <start-class>com.example.springwarjava.SpringwarjavaApplication</start-class>
         <java.version>17</java.version>
     </properties>
     <dependencies>
